@@ -3,6 +3,6 @@ using namespace std;
 
 int main(){
 
-    cout<<" kssso"<<endl;
+    cout<<" combining CMAKE + GIT + GITHUB + CPP"<<endl;
     return 0;
 }
